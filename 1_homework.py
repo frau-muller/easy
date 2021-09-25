@@ -8,7 +8,8 @@ Original file is located at
 """
 a = float(input("Введите число согласно условия: "))
 b = float(input("Введите число согласно условия: "))
-
+V_cuba = a**3
+S_cuba = 6*a**2
 M_arif = (a + b)/2
 M_geom = (a * b)**0.5
 C_gipo = (a**2 + b**2)**0.5
